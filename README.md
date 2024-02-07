@@ -9,12 +9,14 @@ https://medium.com/@paul.c.shepherd/thinking-of-renting-your-property-using-airb
 ## Libraries used
 
 For data analysis I have used the [NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/) libraries
+
 For data visualisation I have used the [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/) and [WordCloud](https://amueller.github.io/word_cloud/) libraries
 
 ## Project motivation
 
 I have created this project as part of a [nanodegree](https://www.udacity.com/blog/2016/07/nanodegree-101.html) course from [Udacity](https://www.udacity.com/)
-I was motivated to take the course as I find data science a fascinating subject and I'm very keen to increase my own knowledge on the subject, both for professional and private reasons
+
+I was motivated to take the course as I find data science a fascinating subject and I'm very keen to increase my own knowledge on the subject, both for professional and personal reasons
 
 ## File descriptions
 
@@ -29,13 +31,14 @@ I was motivated to take the course as I find data science a fascinating subject 
 
 You first must have all of the libraries mentioned above installed on your machine as well as software that supports the use of Jupyter notebooks
 The project is set up so that the first cell must be run first, this loads all of the libraries and datasets. Once the first cell is run, the cells below may be run in any order depending upon your own preferences
+
 The cell that scores the adjectives takes a long time to run, because of this, I have saved the results to another CSV file (adjectives_scored.csv) and this file is loaded on cells further down the notebook so that you can avoid running the adjective scoring cell (Unless you really want to!)
 
 ## Acknowledgements
 
 Author: Paul Shepherd
 
-Acknowledgements: Thanks to Udacity and the Data Scince course which has taught me many of the techniques used in analysing this data
+Acknowledgements: Thanks to Udacity and the Data Science course which has taught me many of the techniques used in analysing this data
 
 Datasets
 - [Seattle Airbnb](https://www.kaggle.com/airbnb/seattle/data)
